@@ -20,5 +20,7 @@ Never commit private keys or sensitive data to public repositories.
 
 \## License
 
+MIT License
+
 
 
