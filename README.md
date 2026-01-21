@@ -16,5 +16,5 @@ Supports deployment on Base Mainnet and Base Sepolia.
 
 \## Security
 
-
+Never commit private keys or sensitive data to public repositories.
 
