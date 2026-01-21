@@ -18,3 +18,7 @@ Supports deployment on Base Mainnet and Base Sepolia.
 
 Never commit private keys or sensitive data to public repositories.
 
+\## License
+
+
+
