@@ -12,5 +12,7 @@ npm install
 
 \## Deployment
 
+Supports deployment on Base Mainnet and Base Sepolia.
+
 
 
