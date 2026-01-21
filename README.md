@@ -8,5 +8,7 @@ Built with ❤️ for the Base ecosystem.
 
 \## Installation
 
+npm install
+
 
 
