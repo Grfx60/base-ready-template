@@ -12,3 +12,4 @@ contract Example {
         message = _message;
     }
 }
+// Simple example contract for Base Network
