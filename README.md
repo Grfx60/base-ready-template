@@ -5,10 +5,28 @@
  # Base Ready Template
 
 Base Network starter repository (Ethereum Layer 2)
-
+ 
 > 🚧 Status: Actively maintained and evolving
 
- 
+
+ ## 📚 Table of Contents
+
+- [Built for Base Network](#-built-for-base-network)
+- [Installation](#-installation)
+- [Deployment](#-deployment)
+- [Supported Networks](#-supported-networks)
+- [Security](#-security)
+- [License](#-license)
+- [Why Base Network?](#-why-base-network)
+- [Getting Started](#-getting-started)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Roadmap](#-roadmap)
+- [Contributing](#-contributing)
+- [FAQ](#-faq)
+- [Links](#-links)
+
+
  ## 🧱 Built for Base Network
 
 Built with ❤️ for the Base ecosystem.
