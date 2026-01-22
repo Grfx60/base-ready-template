@@ -154,3 +154,7 @@ A: This is a starter template intended for learning and experimentation on Base 
 
 - Maintained by the community
 
+---
+
+✨ Built with care for the Base developer community.
+
