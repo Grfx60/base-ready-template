@@ -1,6 +1,10 @@
-# base-ready-template
+\# Base Ready Template
 
-Base Network starter repository (Ethereum L2)
+
+
+Base Network starter repository (Ethereum Layer 2)
+
+
 
 \## Built for Base Network
 
@@ -54,11 +58,7 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 
 
-\*\*Q: Is this repository production ready?\*\*  
+\*\*Q: Is this repository production ready?\*\*
 
 A: This is a starter template intended for learning and experimentation on Base Network.
-
-
-
-
 
