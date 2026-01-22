@@ -118,3 +118,9 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 A: This is a starter template intended for learning and experimentation on Base Network.
 
+## 🔗 Links
+
+- Base Network: https://base.org
+- Ethereum: https://ethereum.org
+
+
