@@ -68,6 +68,20 @@ It offers fast transactions, low fees, and full EVM compatibility.
 
 
 
+\### ⚡ Quick Start
+
+
+
+```bash
+
+git clone https://github.com/Grfx60/base-ready-emplate.git
+
+cd base-ready-template
+
+npm install
+
+
+
 \## 🛠 Tech Stack
 
 
