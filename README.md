@@ -46,6 +46,14 @@ It offers fast transactions, low fees, and full EVM compatibility.
 
 
 
+\## 🛠 Tech Stack
+
+
+
+Solidity, Hardhat, Base Network, Node.js
+
+
+
 \## 🤝 Contributing
 
 
