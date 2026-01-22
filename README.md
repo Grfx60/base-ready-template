@@ -34,5 +34,11 @@ It offers fast transactions, low fees, and full EVM compatibility.
 
 
 
-Clone the repository, install dependencies, and configure your environment variables before deploying to Base.
+1\. Clone the repository
+
+2\. Install dependencies using npm
+
+3\. Configure environment variables and deploy to Base
+
+
 
