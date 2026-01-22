@@ -42,7 +42,7 @@ Built with ❤️ for the Base ecosystem.
 
  ## ⚙️ Installation
 
-npm install
+npm install # install project dependencies
 
 
  ## 🚀 Deployment
