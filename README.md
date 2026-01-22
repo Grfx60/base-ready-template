@@ -46,9 +46,8 @@ Supports deployment on Base Mainnet and Base Sepolia.
 
  ## 🌐 Supported Networks
 
-\- Base Mainnet (chainId: 8453)
-
-\- Base Sepolia (chainId: 84532)
+- **Base Mainnet** (chainId: 8453)
+- **Base Sepolia** (chainId: 84532)
 
 
  ## 🔐 Security
