@@ -6,6 +6,7 @@ async function main() {
 
   await example.waitForDeployment();
 
+  // Log deployed contract address
   console.log("Deployed to:", await example.getAddress());
 }
 
