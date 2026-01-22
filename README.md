@@ -6,6 +6,8 @@
 
 Base Network starter repository (Ethereum Layer 2)
 
+> 🚧 Status: Actively maintained and evolving
+
 \## 🧱 Built for Base Network
 
 Built with ❤️ for the Base ecosystem.
