@@ -30,5 +30,9 @@ Base is a secure, low-cost, Ethereum Layer 2 built to bring the next billion use
 
 It offers fast transactions, low fees, and full EVM compatibility.
 
+\## Getting Started
 
+
+
+Clone the repository, install dependencies, and configure your environment variables before deploying to Base.
 
