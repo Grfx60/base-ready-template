@@ -10,6 +10,7 @@ module.exports = {
       accounts: [process.env.PRIVATE_KEY],
       chainId: 8453
     },
+    // Base Sepolia testnet configuration
     baseSepolia: {
       url: "https://sepolia.base.org",
       accounts: [process.env.PRIVATE_KEY],
