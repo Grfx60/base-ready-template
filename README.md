@@ -153,6 +153,7 @@ A: This is a starter template intended for learning and experimentation on Base 
  ## 👤 Maintainers
 
 - Maintained by the community
+Community-driven and open to collaboration.
 
 ---
 
