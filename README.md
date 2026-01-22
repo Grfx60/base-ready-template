@@ -49,6 +49,8 @@ npm install # install project dependencies
 
 Supports deployment on Base Mainnet and Base Sepolia.
 
+npm run deploy:sepolia
+
 
  ## 🌐 Supported Networks
 
