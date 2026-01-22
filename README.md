@@ -80,6 +80,9 @@ cd base-ready-template
 
 npm install
 
+### 🔧 Environment Setup
+
+Create a `.env` file based on `.env.example` and add your wallet private key before deployment.
 
 
 \## 🛠 Tech Stack
