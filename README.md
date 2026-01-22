@@ -10,21 +10,41 @@ Base Network starter repository (Ethereum Layer 2)
 
 Built with ❤️ for the Base ecosystem.
 
+
+
 \## ⚙️ Installation
 
 npm install
+
+
 
 \## 🚀 Deployment
 
 Supports deployment on Base Mainnet and Base Sepolia.
 
+
+
+\## 🌐 Supported Networks
+
+
+
+\- Base Mainnet (chainId: 8453)
+
+\- Base Sepolia (chainId: 84532)
+
+
+
 \## 🔐 Security
 
 Never commit private keys or sensitive data to public repositories.
 
+
+
 \## 📄 License
 
 MIT License
+
+
 
 \## ❓ Why Base Network?
 
@@ -33,6 +53,8 @@ MIT License
 Base is a secure, low-cost, Ethereum Layer 2 built to bring the next billion users onchain.
 
 It offers fast transactions, low fees, and full EVM compatibility.
+
+
 
 \## 🧭 Getting Started
 
