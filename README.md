@@ -51,6 +51,12 @@ Supports deployment on Base Mainnet and Base Sepolia.
 
 npm run deploy:sepolia
 
+ ## 🧪 Testing
+
+Run the following command to execute tests:
+
+npm test
+
 
  ## 🌐 Supported Networks
 
