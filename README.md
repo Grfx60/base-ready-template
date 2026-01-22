@@ -1,10 +1,10 @@
+![Base](https://img.shields.io/badge/Base-Ethereum%20L2-blue)
+![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-lightgrey)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 \# Base Ready Template
 
-
-
 Base Network starter repository (Ethereum Layer 2)
-
-
 
 \## 🧱 Built for Base Network
 
@@ -95,14 +95,13 @@ Solidity, Hardhat, Base Network, Node.js
 - `scripts/` – Deployment scripts
 - `test/` – Test files
 
-## 🛣 Roadmap
+\## 🛣 Roadmap
 
 - [ ] Improve documentation
 - [ ] Add tests for smart contracts
 - [ ] Deploy example contract to Base Sepolia
 
 \## 🤝 Contributing
-
 
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
