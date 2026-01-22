@@ -34,6 +34,12 @@ Base Network starter repository (Ethereum Layer 2)
 Built with ❤️ for the Base ecosystem.
 
 
+ ## 📦 Requirements
+
+- Node.js (v18 or later)
+- npm or yarn
+
+
  ## ⚙️ Installation
 
 npm install
