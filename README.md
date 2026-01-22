@@ -6,27 +6,27 @@ Base Network starter repository (Ethereum Layer 2)
 
 
 
-\## Built for Base Network
+\## 🧱 Built for Base Network
 
 Built with ❤️ for the Base ecosystem.
 
-\## Installation
+\## ⚙️ Installation
 
 npm install
 
-\## Deployment
+\## 🚀 Deployment
 
 Supports deployment on Base Mainnet and Base Sepolia.
 
-\## Security
+\## 🔐 Security
 
 Never commit private keys or sensitive data to public repositories.
 
-\## License
+\## 📄 License
 
 MIT License
 
-\## Why Base Network?
+\## ❓ Why Base Network?
 
 
 
@@ -34,7 +34,7 @@ Base is a secure, low-cost, Ethereum Layer 2 built to bring the next billion use
 
 It offers fast transactions, low fees, and full EVM compatibility.
 
-\## Getting Started
+\## 🧭 Getting Started
 
 
 
@@ -46,7 +46,7 @@ It offers fast transactions, low fees, and full EVM compatibility.
 
 
 
-\## Contributing
+\## 🤝 Contributing
 
 
 
@@ -54,7 +54,7 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 
 
-\## FAQ
+\## 📌 FAQ
 
 
 
