@@ -8,7 +8,7 @@
 
 Base Network starter repository (Ethereum Layer 2)
  
-> 🚧 Status: Actively maintained and evolving
+> 🚧 Status: Actively maintained and evolving (open to contributions)
 
 
  ## 📚 Table of Contents
