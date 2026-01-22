@@ -2,65 +2,53 @@
 ![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-\# Base Ready Template
+ # Base Ready Template
 
 Base Network starter repository (Ethereum Layer 2)
 
 > 🚧 Status: Actively maintained and evolving
 
-\## 🧱 Built for Base Network
+ 
+ ## 🧱 Built for Base Network
 
 Built with ❤️ for the Base ecosystem.
 
 
-
-\## ⚙️ Installation
+ ## ⚙️ Installation
 
 npm install
 
 
-
-\## 🚀 Deployment
+ ## 🚀 Deployment
 
 Supports deployment on Base Mainnet and Base Sepolia.
 
 
-
-\## 🌐 Supported Networks
-
-
+ ## 🌐 Supported Networks
 
 \- Base Mainnet (chainId: 8453)
 
 \- Base Sepolia (chainId: 84532)
 
 
-
-\## 🔐 Security
+ ## 🔐 Security
 
 Never commit private keys or sensitive data to public repositories.
 
 
-
-\## 📄 License
+ ## 📄 License
 
 MIT License
 
 
-
-\## ❓ Why Base Network?
-
-
+ ## ❓ Why Base Network?
 
 Base is a secure, low-cost, Ethereum Layer 2 built to bring the next billion users onchain.
 
 It offers fast transactions, low fees, and full EVM compatibility.
 
 
-
-\## 🧭 Getting Started
-
-
+ ## 🧭 Getting Started
 
 1\. Clone the repository
 
@@ -69,10 +57,7 @@ It offers fast transactions, low fees, and full EVM compatibility.
 3\. Configure environment variables and deploy to Base
 
 
-
-\### ⚡ Quick Start
-
-
+ ### ⚡ Quick Start
 
 ```bash
 
@@ -82,43 +67,45 @@ cd base-ready-template
 
 npm install
 
-\### 🔧 Environment Setup
+
+ ### 🔧 Environment Setup
 
 Create a `.env` file based on `.env.example` and add your wallet private key before deployment.
 
 
-\## 🛠 Tech Stack
+ ## 🛠 Tech Stack
 
 Solidity, Hardhat, Base Network, Node.js
 
-\## 🗂 Project Structure
+
+ ## 🗂 Project Structure
 
 - `contracts/` – Smart contracts
 - `scripts/` – Deployment scripts
 - `test/` – Test files
 
-\## 🛣 Roadmap
+
+ ## 🛣 Roadmap
 
 - [ ] Improve documentation
 - [ ] Add tests for smart contracts
 - [ ] Deploy example contract to Base Sepolia
 
-\## 🤝 Contributing
+
+ ## 🤝 Contributing
 
 
 Contributions are welcome! Please fork the repository, create a new branch, and submit a pull request.
 
 
-
-\## 📌 FAQ
-
-
+ ## 📌 FAQ
 
 \*\*Q: Is this repository production ready?\*\*
 
 A: This is a starter template intended for learning and experimentation on Base Network.
 
-## 🔗 Links
+
+ ## 🔗 Links
 
 - Base Network: https://base.org
 - Ethereum: https://ethereum.org
