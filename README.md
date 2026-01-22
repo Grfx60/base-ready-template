@@ -50,5 +50,15 @@ Contributions are welcome! Please fork the repository, create a new branch, and 
 
 
 
+\## FAQ
+
+
+
+\*\*Q: Is this repository production ready?\*\*  
+
+A: This is a starter template intended for learning and experimentation on Base Network.
+
+
+
 
 
