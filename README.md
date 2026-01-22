@@ -80,18 +80,26 @@ cd base-ready-template
 
 npm install
 
-### 🔧 Environment Setup
+\### 🔧 Environment Setup
 
 Create a `.env` file based on `.env.example` and add your wallet private key before deployment.
 
 
 \## 🛠 Tech Stack
 
-
-
 Solidity, Hardhat, Base Network, Node.js
 
+\## 🗂 Project Structure
 
+- `contracts/` – Smart contracts
+- `scripts/` – Deployment scripts
+- `test/` – Test files
+
+## 🛣 Roadmap
+
+- [ ] Improve documentation
+- [ ] Add tests for smart contracts
+- [ ] Deploy example contract to Base Sepolia
 
 \## 🤝 Contributing
 
