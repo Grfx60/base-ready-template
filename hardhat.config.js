@@ -4,6 +4,7 @@ require("dotenv").config();
 module.exports = {
   solidity: "0.8.20",
   networks: {
+    // Base mainnet configuration
     base: {
       url: "https://mainnet.base.org",
       accounts: [process.env.PRIVATE_KEY],
