@@ -2,6 +2,8 @@
 ![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-lightgrey)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Version](https://img.shields.io/badge/version-v0.1.0-blue)
+
  # Base Ready Template
 
 Base Network starter repository (Ethereum Layer 2)
