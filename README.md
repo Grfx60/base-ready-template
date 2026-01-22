@@ -129,3 +129,9 @@ A: This is a starter template intended for learning and experimentation on Base 
 - Ethereum: https://ethereum.org
 
 
+ ## 📝 Changelog
+
+ ### v0.1.0
+- Initial Base-ready template with documentation and examples
+
+
