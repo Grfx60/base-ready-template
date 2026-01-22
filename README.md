@@ -136,3 +136,7 @@ A: This is a starter template intended for learning and experimentation on Base 
 - Initial Base-ready template with documentation and examples
 
 
+ ## 👤 Maintainers
+
+- Maintained by the community
+
